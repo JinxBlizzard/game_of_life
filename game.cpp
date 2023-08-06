@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include <SDL2/SDL.h>
+#include <SDL2/SDL.h> // Error -"Unable to include this file"
 #include <cstdlib>
 #include <iostream>
 #include <time.h>  
